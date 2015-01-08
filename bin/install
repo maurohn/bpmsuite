@@ -50,22 +50,22 @@ set_env_var DISABLE_OPENSHIFT_MANAGED_SERVER_CONFIG true ~/.env/user_vars
 # Set usernames, generate passwords and create env variables
 echo 'Generating username and password'
 
-bpmadmin_username=erics
-bpmanalyst_username=alan
-bpmdeveloper_username=daniel
-bpmuser_username=ursla
-bpmmanager_username=mary
-root_username=root
-loan_username=larry
+bpmadmin_username=bc-admin
+bpmanalyst_username=bc-analyst
+bpmdeveloper_username=bc-developer
+bpmuser_username=bc-user
+bpmmanager_username=bc-manager
+root_username=bc-root
+loan_username=bc-loan
 
 
-bpmadmin_password=bpmsuite
-bpmanalyst_password=bpmsuite
-bpmdeveloper_password=bpmsuite
-bpmuser_password=bpmsuite
-bpmmanager_password=bpmsuite
-root_password=bpmsuite
-loan_password=bpmsuite
+bpmadmin_password=bc-admin
+bpmanalyst_password=bc-analyst
+bpmdeveloper_password=bc-developer
+bpmuser_password=bc-user
+bpmmanager_password=bc-manager
+root_password=bc-root
+loan_password=bc-loan
 
 # env vars
 #

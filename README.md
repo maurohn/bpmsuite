@@ -11,15 +11,15 @@ After clicking button, ensure `Gear` size is set to `medium`:
 
 Once installed you can use the JBoss BPM Suite login: 
 
-   * u:erics   p: bpmsuite  (admin)
+   * u: bc-admin   p: bc-admin  (admin)
 
-   * u: alan   p: bpmsuite  (analyst)
+   * u: bc-analyst   p: bc-analyst  (analyst)
 
-   * u: daniel p: bpmsuite (developer)
+   * u: bc-developer p: bc-developer (developer)
 
-   * u: ursla  p: bpmsuite (user)
+   * u: bc-user  p: bc-user (user)
 
-   * u: mary   p: bpmsuite (manager)
+   * u: bc-manager   p: bc-manager (manager)
 
 Important Note
 --------------
