@@ -1,6 +1,6 @@
 Name: bpms
 Cartridge-Short-Name: BPMS
-Display-Name: Red Hat JBoss BPM Suite 6
+Display-Name: BeatCoding - Red Hat JBoss BPM Suite 6
 Description: Red Hat JBoss BPM Suite is a comprehensive platform for business process management.
 Version: '6.0.2'
 License: LGPL
@@ -8,7 +8,7 @@ License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: Red Hat
 Cartridge-Version: 0.0.2
 Cartridge-Vendor: jboss
-Source-Url: https://github.com/jbossdemocentral/cartridge-bpmPaaS.git
+Source-Url: https://github.com/maurohn/bpmsuite.git
 Categories:
 - service
 - web_framework
